@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://durgesh-v.vercel.app/sitemap.xml
