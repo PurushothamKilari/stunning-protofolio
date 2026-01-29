@@ -1,5 +1,5 @@
 {
-  "name": "durgesh-vaigandla-|-portfolio",
+  "name": "Manoj-|-portfolio",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -30,6 +30,7 @@
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.0.0",
+    "baseline-browser-mapping": "^2.9.19",
     "eslint": "^9.39.1",
     "eslint-config-next": "^16.0.4",
     "postcss": "^8.5.6",
